@@ -3,7 +3,7 @@
 
 ### 成品样子 [sohyunQVQ](https://github.com/sohyunQVQ/sohyunQVQ)
 <p align="center">
-  <img src="https://github.com/sohyunQVQ/netease-music-show/blob/master/images/1.png" width="758">
+  <img src="https://github.com/sohyunQVQ/netease-music-show/blob/main/images/1.png" width="758">
 </p>
 
 ### 准备
@@ -13,7 +13,7 @@
 2. 去拿到你的网易云UID
 
 <p align="left">
-  <img src="https://github.com/sohyunQVQ/netease-music-show/blob/master/images/2.png">
+  <img src="https://github.com/sohyunQVQ/netease-music-show/blob/main/images/2.png">
 </p>
 
 3. 修改.github/workflows/job-work.yml，将36行的`python 163music.py 136164194 1`内的`136164194`修改成你的uid 
