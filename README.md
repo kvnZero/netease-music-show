@@ -32,9 +32,9 @@
 
 - Action在执行python脚本时报错
   
-  1.检查隐私权限是否听歌排行所有人可见
+  1.检查隐私权限是否听歌排行所有人可见, 可以在手机端个人设置隐私上面设置
 <p align="left">
-  <img src="https://github.com/sohyunQVQ/netease-music-show/blob/main/images/3.jpg">
+  <img src="https://github.com/sohyunQVQ/netease-music-show/blob/main/images/3.jpg" width="300">
 </p>
   2.打开自己的主页看是否有数据
 
