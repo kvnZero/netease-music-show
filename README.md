@@ -27,3 +27,21 @@
 - 使用的编码代码是由[wyy-action](https://github.com/t00t00-crypto/wyy-action) 编写
 - Github Actions执行时间为标准时区 所以脚本的`0 8 * * *`是每天北京时间0点执行
 - 可以通过对项目的`star`进行手动执行
+
+## 可能出现的问题
+
+- Action在执行python脚本时报错
+  
+  1.检查隐私权限是否听歌排行所有人可见
+<p align="left">
+  <img src="https://github.com/sohyunQVQ/netease-music-show/blob/main/images/3.jpg">
+</p>
+  2.打开自己的主页看是否有数据
+
+  3.UID是否错误
+
+- Action在push的过程出错
+
+  1.README.md没有变动所以push失败 （正常情况）
+
+  2.没有修改yaml内的git config
