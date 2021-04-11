@@ -1,7 +1,7 @@
 
 # 通过Actions每天获取听歌记录展示在主页的README.md🎧 
 
-### 成品样子 [sohyunQVQ](https://github.com/sohyunQVQ/sohyunQVQ)
+### 成品样子 [kvnZero](https://github.com/kvnZero/kvnZero)
 <p align="center">
   <img src="https://github.com/sohyunQVQ/netease-music-show/blob/main/images/1.png" width="758">
 </p>
